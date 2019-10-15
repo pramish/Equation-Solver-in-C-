@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E2E52A80-3FD2-40D6-861A-993A5DE10B28}|Default">
+  <MonoDevelop.Ide.ItemProperties.equationSolver PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="equation.cs">
+    <Files>
+      <File FileName="equation.cs" Line="45" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

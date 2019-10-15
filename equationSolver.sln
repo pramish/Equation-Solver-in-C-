@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "equationSolver", "equationSolver.csproj", "{E2E52A80-3FD2-40D6-861A-993A5DE10B28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2E52A80-3FD2-40D6-861A-993A5DE10B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2E52A80-3FD2-40D6-861A-993A5DE10B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2E52A80-3FD2-40D6-861A-993A5DE10B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2E52A80-3FD2-40D6-861A-993A5DE10B28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+/Users/pramishluitel/Projects/equationSolver/bin/Debug/netcoreapp2.1/equationSolver.deps.json
+/Users/pramishluitel/Projects/equationSolver/bin/Debug/netcoreapp2.1/equationSolver.runtimeconfig.json
+/Users/pramishluitel/Projects/equationSolver/bin/Debug/netcoreapp2.1/equationSolver.runtimeconfig.dev.json
+/Users/pramishluitel/Projects/equationSolver/bin/Debug/netcoreapp2.1/equationSolver.dll
+/Users/pramishluitel/Projects/equationSolver/bin/Debug/netcoreapp2.1/equationSolver.pdb
+/Users/pramishluitel/Projects/equationSolver/obj/Debug/netcoreapp2.1/equationSolver.csprojResolveAssemblyReference.cache
+/Users/pramishluitel/Projects/equationSolver/obj/Debug/netcoreapp2.1/equationSolver.csproj.CoreCompileInputs.cache
+/Users/pramishluitel/Projects/equationSolver/obj/Debug/netcoreapp2.1/equationSolver.AssemblyInfoInputs.cache
+/Users/pramishluitel/Projects/equationSolver/obj/Debug/netcoreapp2.1/equationSolver.AssemblyInfo.cs
+/Users/pramishluitel/Projects/equationSolver/obj/Debug/netcoreapp2.1/equationSolver.dll
+/Users/pramishluitel/Projects/equationSolver/obj/Debug/netcoreapp2.1/equationSolver.pdb
